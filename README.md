@@ -7,3 +7,5 @@ Necessidades:
 - Arquivo txt, com a menssagem que deve ser enviada.
 - Celular com whatsapp para envios pelo App
 - Para envio de emails será necessario uma senha para App (Disponibilizada nas configurações do Email)
+
+As pastas são utilizadas para salvar os arquivos com informações do envio.
